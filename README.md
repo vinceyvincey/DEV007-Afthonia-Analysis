@@ -28,8 +28,8 @@ A Python application for analyzing flexural modulus from stress-strain data usin
    ```bash
    # Open Terminal and navigate to where you want to store the project
    cd ~/Documents
-   git clone https://github.com/your-username/flexural-modulus-analyzer.git
-   cd flexural-modulus-analyzer
+   git clone https://github.com/your-username/flexural-modulus-analyzer.git](https://github.com/vinceyvincey/DEV007-Afthonia-Analysis.git
+   cd DEV007-Afthonia-Analysis
    ```
 
 3. **Create and Activate Virtual Environment**
